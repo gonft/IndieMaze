@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Completed/Scripts/MovingObject.cs">
+    <Files>
+      <File FileName="Assets/Completed/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Completed/Scripts/BoardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Completed/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Completed/Scripts/Maze/Maze.cs" Line="1" Column="1" />
+      <File FileName="Assets/Completed/Scripts/MovingObject.cs" Line="124" Column="1" />
+      <File FileName="Assets/Completed/Scripts/Loader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Completed/Scripts/Wall.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
